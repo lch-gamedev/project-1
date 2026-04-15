@@ -57,14 +57,13 @@ Start small. Make **one thing that works**.
 
 # Weekly Plan
 
-## Week 1: Build the space
+## Week 1: Ideation
 ### Goal
-Create your project and make a small level.
+Decide on a game idea, and create a new project for it.
 
 ### You should try to:
 - make a new Godot project
 - add a background, floor, walls, or tiles
-- import sprites or a tileset
 - save your level as a scene
 
 ### By the end of the session
